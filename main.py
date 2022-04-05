@@ -229,7 +229,7 @@ if sidebar_selectbox == 'Parent or Teacher':
     #racing_internet
     st.write(racing_int_sources)
     st.write('Note: Missing state-level data from 2009-2019 is due to reporting standards not met through the NDE. Laptop Icon created by Olga from the Noun Project.')
-    my_expander = st.beta_expander(label="Data Analysis Details")
+    my_expander = st.expander(label="Data Analysis Details")
     with my_expander:
         'The 2009-2019 data in the racing internet cable visualization is from NAEP 8th grade Mathematics. Students that participated in NAEP answered a question about if they had access to internet at home. The options they could choose were either a "Yes" or a "No". The 2021 data is from the Census Bureau Household Pulse data, which surveyed adults. If the adult had a child that was in public or private school, they answered a question about the availability of internet for educational purposes in their household. The responses to this question were on a scale of "Always Available", "Usually available", "Sometimes Available", "Rarely Available", or "Never Available." In order to match the NAEP data to the Census Bureau data, I aggregated "Always", "Usually", "Sometimes", and "Rarely" into one "Yes" category and used "Never" as the "No" category. '
 
@@ -281,7 +281,7 @@ elif sidebar_selectbox == 'Policymaker or Researcher':
         st.image("POST-midline.png")
         #st.image("POST-baseline.png")
     st.write("Sources: Pre-pandemic data is from the National Assessment of Educational Progress (NAEP) Mathematics Assessment. Pandemic  access to internet data is from the 2021 Census bureau Household Pulse survey. Population data is from the Census Bureau. Pandemic population data is from 2020. Policy data is form Pew Charitable Trust and the National Governor's Association.")
-    my_expander = st.beta_expander(label="Data Analysis Details")
+    my_expander = st.expander(label="Data Analysis Details")
     with my_expander:
         'The 2019 data in the packed bubble chart is from NAEP 8th grade Mathematics. Students that participated in NAEP answered a question about if they had access to internet at home. The options they could choose were either a "Yes" or a "No". The 2021 data is from the Census Bureau Household Pulse data, which surveyed adults. If the adult had a child that was in public or private school, they answered a question about the availability of internet for educational purposes in their household. The responses to this question were on a scale from "Always Available", "Usually available", "Sometimes Available", "Rarely Available", or "Never Available." In order to match the NAEP data to the Census Bureau data, I aggregated "Always", "Usually", "Sometimes", and "Rarely" into one "Yes" category and used "Never" as the "No" category. '
 
