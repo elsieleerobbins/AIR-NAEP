@@ -12,19 +12,19 @@ dataSection = True
 if dataSection:
     # loading data
     NAEP = pd.read_csv(
-        "/Data/NAEP/NAEP.csv")
+        "Data/NAEP/NAEP.csv")
     Pulse = pd.read_csv(
         "Data/CensusBureauPulseSurvey/Pulse.csv")
     Population = pd.read_csv(
-        "/Data/CensusBureauPopulation/population.csv")
+        "Data/CensusBureauPopulation/population.csv")
     EdWeek = pd.read_csv(
-        "/Data/EdWeekSchoolFinance/EdWeek_SchoolFinance.csv")
+        "Data/EdWeekSchoolFinance/EdWeek_SchoolFinance.csv")
     Policy = pd.read_csv(
-        "/Data/Policy/policy.csv")
+        "Data/Policy/policy.csv")
     PolicyCount = pd.read_csv(
-        "/Data/Policy/policyCount.csv")
+        "Data/Policy/policyCount.csv")
     hexs = pd.read_csv(
-        "/Data/hexmap_plots.csv")
+        "Data/hexmap_plots.csv")
 
     # Dropping columns
     Pulse = Pulse.drop(columns=['Abbreviation'])
