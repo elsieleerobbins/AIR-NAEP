@@ -201,8 +201,6 @@ def create_altair_stacked():
     return stacked
 
 def state_list():
-    hexs = pd.read_csv(
-        "//dc3fs1/DC4Work/ESSIN Task 14/05_RAPS/Z_Misc/Interns/2021 Summer/Sandbox/Lee/Data/hexmap_plots.csv")
     states = hexs['Jurisdiction'].to_list()
     states.remove('National')
     return states
