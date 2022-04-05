@@ -224,8 +224,8 @@ if sidebar_selectbox == 'Parent or Teacher':
     st.write("Choose your state below to see how it compares to the national average and similar states. Color indicates region and your state is highlighted in red.")
     my_state = st.selectbox('', states, index=22)
     [racing_internet, racing_internet_LOC, racing_internet_NSLP] = create_altair_parent(my_state)
-    st.image('racinginternet.png')
-    st.video('SW.mp4')
+    st.image('Assets/racinginternet.png')
+    st.video('Assets/SW.mp4')
     #racing_internet
     st.write(racing_int_sources)
     st.write('Note: Missing state-level data from 2009-2019 is due to reporting standards not met through the NDE. Laptop Icon created by Olga from the Noun Project.')
@@ -274,11 +274,11 @@ elif sidebar_selectbox == 'Policymaker or Researcher':
              ["Pre-pandemic (2019)", "Pandemic (2020-2021)"], index=0)
     if time_radio == "Pre-pandemic (2019)":
         #bubblechart_pre
-        st.image("PRE-midline.png")
+        st.image("Assets/PRE-midline.png")
         #st.image("PRE-baseline.png")
     elif time_radio == "Pandemic (2020-2021)":
         #bubblechart_pan
-        st.image("POST-midline.png")
+        st.image("Assets/POST-midline.png")
         #st.image("POST-baseline.png")
     st.write("Sources: Pre-pandemic data is from the National Assessment of Educational Progress (NAEP) Mathematics Assessment. Pandemic  access to internet data is from the 2021 Census bureau Household Pulse survey. Population data is from the Census Bureau. Pandemic population data is from 2020. Policy data is form Pew Charitable Trust and the National Governor's Association.")
     my_expander = st.expander(label="Data Analysis Details")
@@ -298,7 +298,7 @@ elif sidebar_selectbox == 'Policymaker or Researcher':
     st.write('The NAEP student questionnaire asks students if they have access to internet at home, with two response options: Yes or No. The Household Pulse survey provides a more detailed look at this measure. This survey asks adults about the availability of internet in their home for their children\'s educational purposes. These parents responded on a scale, from Always available, Usually, Sometimes, Rarely, and Never. This provides more granularity to the measure.')
     st.write("This is important because access to internet is reaching the maximum possible value, 100%. As of 2019, 97% of students have access to the internet. But, when looking at the Household Pulse data, we see that there are varying levels of availability. Only 70% of students always have access to the internet. Grouping together all of the categories that indicate some type of access - Always, Usually, Sometimes and Rarely - we reach 97% access, on par with the NAEP data. Lower levels of availability, such as Sometimes available or Rarely available, could interfere with a students' education. Partial availability could be the result of unafforable or low bandwidth internet. Policy and funding can focus on these issues, such as the FCC's Emergency Broadband Benefit program that provides funds to low-income households to pay for broadband internet services. ")
     #stacked
-    st.image("StackedBar.png")
+    st.image("Assets/StackedBar.png")
     st.write('Sources: National Assessment of Educational Progress (NAEP) Mathematics Assessment, Census Bureau Household Pulse Survey')
 
     ### - POLICY DETAILS - ###
