@@ -1,0 +1,671 @@
+,STATE,variable,value
+200,Alabama,AGENCY 1,Department of Economic and Community Affairs (Broadband Alabama)
+201,Alaska,AGENCY 1,Regulatory Commission of Alaska
+202,Arizona,AGENCY 1,Arizona Department of Administration (Strategic Enterprise Technology Office)
+203,Arkansas,AGENCY 1,Arkansas Division of Information Systems 
+204,California,AGENCY 1,Department of Technology
+205,Colorado,AGENCY 1,Governor's Office of Information Technology
+206,Connecticut,AGENCY 1,Office of Consumer Counsel
+207,Delaware,AGENCY 1,Department of Technology and Information
+208,Florida,AGENCY 1,Florida Department of Management Services
+209,Georgia,AGENCY 1,Department of Community Affairs (Georgia Broadband Deployment Initiative)
+210,Hawaii,AGENCY 1,"Department of Commerce and Consumer Affairs, Cable Television Division"
+211,Idaho,AGENCY 1,State Department of Education (Broadband Program)
+212,Illinois,AGENCY 1,Department of Commerce and Economic Opportunity
+213,Indiana ,AGENCY 1,Office of Lieutenant Governor
+214,Iowa,AGENCY 1,Office of the Chief Information Officer
+215,Kansas,AGENCY 1,Department of Commerce
+217,Louisiana,AGENCY 1,Office of the Governor
+218,Maine,AGENCY 1,Department of Economic and Community Development
+219,Maryland,AGENCY 1,Rural Maryland Council
+220,Massachusetts,AGENCY 1,Massachusetts Technology Collaborative
+221,Michigan,AGENCY 1,Michigan Public Service Commission (in partnership with Connected Nation)
+222,Minnesota,AGENCY 1,Minnesota Employment and Economic Development
+224,Missouri,AGENCY 1,Department of Economic Development
+225,Montana,AGENCY 1,Department of Commerce
+226,Nebraska,AGENCY 1,Nebraska Information Technology Commission
+227,Nevada,AGENCY 1,"Governor's Office of Science, Innovation, and Technology"
+250,Alabama,AGENCY 1 URL,https://adeca.alabama.gov/Divisions/energy/broadband/Pages/default.aspx
+251,Alaska,AGENCY 1 URL,http://rca.alaska.gov/RCAWeb/Programs/Telecommunications.aspx
+252,Arizona,AGENCY 1 URL,https://aset.az.gov/digital-highways
+253,Arkansas,AGENCY 1 URL,https://www.transform.ar.gov/information-systems/
+254,California,AGENCY 1 URL,https://cdt.ca.gov/
+255,Colorado,AGENCY 1 URL,http://broadband.co.gov/
+256,Connecticut,AGENCY 1 URL,https://portal.ct.gov/OCC/Services/Broadband
+257,Delaware,AGENCY 1 URL,https://dti.delaware.gov/digital-innovation/
+258,Florida,AGENCY 1 URL,https://www.dms.myflorida.com/
+259,Georgia,AGENCY 1 URL,https://www.dca.ga.gov/blog-tags/broadband
+260,Hawaii,AGENCY 1 URL,http://cca.hawaii.gov/broadband
+261,Idaho,AGENCY 1 URL,http://www.sde.idaho.gov/tech-services/broadband/
+262,Illinois,AGENCY 1 URL,https://www2.illinois.gov/dceo/connectIllinois/Pages/default.aspx
+263,Indiana ,AGENCY 1 URL,https://www.in.gov/lg/
+264,Iowa,AGENCY 1 URL,https://ocio.iowa.gov/broadband 
+265,Kansas,AGENCY 1 URL,http://kansascommerce.gov/
+267,Louisiana,AGENCY 1 URL,https://gov.louisiana.gov/page/Broadband-for-Louisiana
+268,Maine,AGENCY 1 URL,https://www.maine.gov/decd/
+269,Maryland,AGENCY 1 URL,https://rural.maryland.gov/ 
+270,Massachusetts,AGENCY 1 URL,http://masstech.org/
+271,Michigan,AGENCY 1 URL,"https://www.michigan.gov/mpsc/0,9535,7-395-93308_93325_93425_94029_94033---,00.html"
+272,Minnesota,AGENCY 1 URL,https://mn.gov/deed/
+274,Missouri,AGENCY 1 URL,https://ded.mo.gov/
+275,Montana,AGENCY 1 URL,https://commerce.mt.gov/
+276,Nebraska,AGENCY 1 URL,https://nitc.nebraska.gov
+277,Nevada,AGENCY 1 URL,http://osit.nv.gov/Broadband/Broadband/
+229,New Jersey,AGENCY 1,New Jersey Office of Information Technology 
+230,New Mexico,AGENCY 1,New Mexico Department of Information Technology 
+279,New Jersey,AGENCY 1 URL,https://nj.gov/it/
+280,New Mexico,AGENCY 1 URL,http://www.doit.state.nm.us/index.html
+231,New York,AGENCY 1,Empire State Development
+232,North Carolina,AGENCY 1,Department of Information Technology
+233,North Dakota,AGENCY 1,Department of Information Technology (STAGE Net and Broadband ND)
+234,Ohio,AGENCY 1,Ohio Department of Transportation
+235,Oklahoma,AGENCY 1,State Regents for Higher Education (OneNet)
+236,Oregon,AGENCY 1,Oregon Business Development Department
+237,Pennsylvania,AGENCY 1,Department of Community and Economic Development
+238,Rhode Island,AGENCY 1,Governor's Office (Digital Equity)
+239,South Carolina,AGENCY 1,South Carolina Office of Regulatory Staff
+240,South Dakota,AGENCY 1,Governor's Office of Economic Development (South Dakota Broadband Development Program)
+241,Tennessee,AGENCY 1,Department of Economic & Community Development (Broadband Initiative)
+242,Texas,AGENCY 1,"Office of the Governor, Texas Economic Development"
+243,Utah,AGENCY 1,Governor's Office of Economic Development
+244,Vermont,AGENCY 1,"Department of Public Service (Telecommunications and Connectivity Division, Consumer Affairs and Public Information Division, and Connectivity Initiative)"
+245,Virginia,AGENCY 1,Department of Housing and Community Development
+246,Washington,AGENCY 1,Public Works Board
+247,West Virginia,AGENCY 1,Department of Commerce
+248,Wisconsin,AGENCY 1,Public Service Commission (Broadband Forward!)
+249,Wyoming,AGENCY 1,The State of Wyoming’s Economic Development Agency (Wyoming Business Council)
+302,Arizona,AGENCY 2,Arizona Department of Education (Arizona Broadband Initiative)
+304,California,AGENCY 2,Public Utilities Commission
+305,Colorado,AGENCY 2,Department of Local Affairs
+308,Florida,AGENCY 2,Florida Department of Economic Opportunity 
+309,Georgia,AGENCY 2,Georgia Technology Authority
+310,Hawaii,AGENCY 2,"Department of Business, Economic Development & Tourism"
+311,Idaho,AGENCY 2,Department of Commerce
+312,Illinois,AGENCY 2,Department of Innovation and Technology (Illinois Century Network)
+313,Indiana ,AGENCY 2,Department of Transportation (Broadband Corridors Program)
+319,Maryland,AGENCY 2,Department of Housing and Community Development
+320,Massachusetts,AGENCY 2,Executive Office of Housing and Economic Development
+321,Michigan,AGENCY 2,"Department of Technology, Management, and Budget"
+326,Nebraska,AGENCY 2,Public Service Commission
+327,Nevada,AGENCY 2,Department of Transportation
+330,New Mexico,AGENCY 2,New Mexico Public Regulation Commission
+332,North Carolina,AGENCY 2,Department of Commerce
+334,Ohio,AGENCY 2,InnovateOhio
+335,Oklahoma,AGENCY 2,Governor's Office (Connect and Learn Initiative)
+337,Pennsylvania,AGENCY 2,Public Utilities Commission
+338,Rhode Island,AGENCY 2,State of Rhode Island Public Utilities Commission and Division of Public Utilities and Carriers
+340,South Dakota,AGENCY 2,South Dakota Public Utilities Commission
+343,Utah,AGENCY 2,Department of Transportation
+344,Vermont,AGENCY 2,Agency of Digital Services
+345,Virginia,AGENCY 2,Secretary of Commerce and Trade 
+346,Washington,AGENCY 2,Department of Commerce
+348,Wisconsin,AGENCY 2,Wisconsin Economic Development Corporation (Broadband Connectors Pilot) 
+349,Wyoming,AGENCY 2,Department of Enterprise Technology Services
+402,Arizona,AGENCY 3,Arizona Commerce Authority
+281,New York,AGENCY 1 URL,https://esd.ny.gov/milestones-reached-toward-broadband-all
+282,North Carolina,AGENCY 1 URL,https://it.nc.gov/
+283,North Dakota,AGENCY 1 URL,https://www.nd.gov/itd/statewide-alliances/stagenet
+284,Ohio,AGENCY 1 URL,http://www.dot.state.oh.us/pages/home.aspx
+285,Oklahoma,AGENCY 1 URL,https://onenet.net/
+286,Oregon,AGENCY 1 URL,https://www.oregon4biz.com/
+287,Pennsylvania,AGENCY 1 URL,https://dced.pa.gov/broadband-resources/
+288,Rhode Island,AGENCY 1 URL,https://www.innovate.ri.gov/digital-equity/
+289,South Carolina,AGENCY 1 URL,https://ors.sc.gov/broadband
+290,South Dakota,AGENCY 1 URL,https://sdreadytowork.com/
+291,Tennessee,AGENCY 1 URL,https://www.tn.gov/ecd/rural-development/tnecd-broadband-initiative.html
+292,Texas,AGENCY 1 URL,https://gov.texas.gov/business
+293,Utah,AGENCY 1 URL,https://business.utah.gov/broadband/
+294,Vermont,AGENCY 1 URL,https://publicservice.vermont.gov/connectivity
+295,Virginia,AGENCY 1 URL,https://www.dhcd.virginia.gov/broadband
+296,Washington,AGENCY 1 URL,https://www.commerce.wa.gov/building-infrastructure/pwb-home-page/
+297,West Virginia,AGENCY 1 URL,https://commerce.wv.gov
+298,Wisconsin,AGENCY 1 URL,https://psc.wi.gov/Pages/Programs/BroadbandForward.aspx
+299,Wyoming,AGENCY 1 URL,https://www.wyomingbusiness.org/broadband
+352,Arizona,AGENCY 2 URL,https://www.azed.gov/erate/arizona-broadband-initiative/
+354,California,AGENCY 2 URL,http://www.cpuc.ca.gov/Communications/
+355,Colorado,AGENCY 2 URL,https://www.colorado.gov/pacific/dola/broadband-program
+358,Florida,AGENCY 2 URL,https://floridajobs.org/community-planning-and-development/broadband/office-of-broadband
+359,Georgia,AGENCY 2 URL,https://gta.georgia.gov/
+360,Hawaii,AGENCY 2 URL,http://broadband.hawaii.gov/about/
+361,Idaho,AGENCY 2 URL,https://commerce.idaho.gov/broadband/
+362,Illinois,AGENCY 2 URL,https://www2.illinois.gov/icn/about/network/Pages/default.aspx
+363,Indiana ,AGENCY 2 URL,"https://www.in.gov/indot/3685.htm#:~:text=The%20broadband%20corridors%20program%20allows,no%20extra%20cost%20to%20taxpayers."
+369,Maryland,AGENCY 2 URL,https://dhcd.maryland.gov/RuralBroadband/Pages/default.aspx
+370,Massachusetts,AGENCY 2 URL,https://www.mass.gov/service-details/last-mile-infrastructure-grant
+371,Michigan,AGENCY 2 URL,"https://www.michigan.gov/dtmb/0,5552,7-358-82547_56345_91154---,00.html"
+376,Nebraska,AGENCY 2 URL,http://www.psc.nebraska.gov/index.html
+377,Nevada,AGENCY 2 URL,https://www.nevadadot.com/doing-business/right-of-way/permits/telecommunications-permit-installations
+380,New Mexico,AGENCY 2 URL,http://www.nmprc.state.nm.us/
+382,North Carolina,AGENCY 2 URL,https://www.nccommerce.com/grants-incentives/public-infrastructure-funds/infrastructure-state-rural-grants
+384,Ohio,AGENCY 2 URL,https://innovateohio.gov/wps/portal/gov/innovate/
+385,Oklahoma,AGENCY 2 URL,https://sde.ok.gov/ocli
+387,Pennsylvania,AGENCY 2 URL,https://www.puc.pa.gov/telecommunications/broadband-internet-service/
+388,Rhode Island,AGENCY 2 URL,http://www.ripuc.org/
+390,South Dakota,AGENCY 2 URL,https://puc.sd.gov/
+393,Utah,AGENCY 2 URL,www.udot.utah.gov
+394,Vermont,AGENCY 2 URL,https://digitalservices.vermont.gov/ 
+395,Virginia,AGENCY 2 URL,https://www.commonwealthconnect.virginia.gov/
+396,Washington,AGENCY 2 URL,https://www.commerce.wa.gov/
+398,Wisconsin,AGENCY 2 URL,https://wedc.org/programs-and-resources/broadband-connectors-pilot/
+399,Wyoming,AGENCY 2 URL,http://ets.wyo.gov/about-us/chief-information-officer-gordon-knopp
+452,Arizona,AGENCY 3 URL,https://www.azcommerce.com/Broadband
+404,California,AGENCY 3,Department of Transportation
+405,Colorado,AGENCY 3,Department of Regulatory Agencies (Broadband Deployment Board)
+408,Florida,AGENCY 3,Florida Department of Transportation
+409,Georgia,AGENCY 3,Department of Transportation
+413,Indiana ,AGENCY 3,Broadband Ready Communities Program 
+435,Oklahoma,AGENCY 3,Office of Management and Enterprise Services (Information Services Division)
+440,South Dakota,AGENCY 3,South Dakota Bureau of Information and Telecommunications
+444,Vermont,AGENCY 3,Vermont Economic Development Authority
+445,Virginia,AGENCY 3,Tobacco Region Revitalization Commission
+446,Washington,AGENCY 3,Office of the State Chief Information Officer 
+502,Arizona,AGENCY 4,Arizona Department of Transportation
+504,California,AGENCY 4,California State Library
+505,Colorado,AGENCY 4,Colorado Public Utilities Commission 
+509,Georgia,AGENCY 4,Board of Economic Development
+545,Virginia,AGENCY 4,Virginia Information Technology Agency
+602,Arizona,AGENCY 5,Arizona Public Safety Broadband Network
+645,Virginia,AGENCY 5,Department of Transporatation 
+1400,Alabama,FUND 1,Alabama Broadband Accessibility Fund
+1401,Alaska,FUND 1,Broadband Internet Grant
+1402,Arizona,FUND 1,Broadband Expansion Program
+1403,Arkansas,FUND 1,Arkansas Rural Connect Program
+1404,California,FUND 1,California Advanced Services Fund
+1405,Colorado,FUND 1,Broadband Deployment Fund
+1406,Connecticut,FUND 1,Everybody Learns Initiative 
+1407,Delaware,FUND 1,Delaware Broadband Fund
+1408,Florida,FUND 1,Florida State Transportation Trust Fund 
+1411,Idaho,FUND 1,Broadband Infrastructure Improvement Grant Fund
+454,California,AGENCY 3 URL,https://dot.ca.gov/programs/design/wired-broadband
+455,Colorado,AGENCY 3 URL,https://broadbandfund.colorado.gov/broadband-deployment-board 
+458,Florida,AGENCY 3 URL,https://www.fdot.gov/traffic/itsfm/newusersagencies/about-itsfm
+459,Georgia,AGENCY 3 URL,http://www.dot.ga.gov/
+463,Indiana ,AGENCY 3 URL,https://www.in.gov/indianabroadband/2632.htm 
+485,Oklahoma,AGENCY 3 URL,https://omes.ok.gov/services/information-services
+490,South Dakota,AGENCY 3 URL,https://bit.sd.gov
+494,Vermont,AGENCY 3 URL,https://www.veda.org/broadband-loan-program
+495,Virginia,AGENCY 3 URL,https://www.cit.org/service-lines/cit-broadband/
+496,Washington,AGENCY 3 URL,https://ocio.wa.gov
+552,Arizona,AGENCY 4 URL,https://azdot.gov/
+554,California,AGENCY 4 URL,http://www.library.ca.gov/services/to-libraries/broadband/
+555,Colorado,AGENCY 4 URL,https://puc.colorado.gov/
+559,Georgia,AGENCY 4 URL,https://georgia.gov/organization/georgia-department-economic-development
+595,Virginia,AGENCY 4 URL,https://www.vita.virginia.gov/
+652,Arizona,AGENCY 5 URL,https://azfirstnet.az.gov/
+695,Virginia,AGENCY 5 URL,http://www.p3virginia.org/projects/vdot-fiber-optics/ 
+1450,Alabama,FUND 1 URL,https://adeca.alabama.gov/wp-content/uploads/Alabama-Broadband-Accessibility-Act.pdf
+1451,Alaska,FUND 1 URL,http://rca.alaska.gov/RCAWeb/Programs/BroadbandInternetGrant.aspx
+1452,Arizona,FUND 1 URL,https://www.azed.gov/erate/arizona-broadband-initiative/
+1453,Arkansas,FUND 1 URL,https://broadband.arkansas.gov/ar-rural-connect/
+1454,California,FUND 1 URL,http://www.cpuc.ca.gov/casf/
+1455,Colorado,FUND 1 URL,https://www.colorado.gov/pacific/dora-broadband-fund
+1456,Connecticut,FUND 1 URL,https://portal.ct.gov/SDE/COVID19/Everybody-Learns-Initiative
+1457,Delaware,FUND 1 URL,https://dti.delaware.gov/digital-innovation/delaware-broadband-grant-opportunity/
+1458,Florida,FUND 1 URL,http://laws.flrules.org/2020/26
+1461,Idaho,FUND 1 URL,http://www.sde.idaho.gov/tech-services/broadband/
+1412,Illinois,FUND 1,Digital Divide Elimination Infrastructure Program
+1413,Indiana ,FUND 1,Next Level Connections Broadband Program
+1414,Iowa,FUND 1,Empower Rural Iowa Broadband Grant Program
+1415,Kansas,FUND 1,Broadband Infrastructure Construction Grant Fund  
+1416,Kentucky,FUND 1,Broadband Deployment Fund
+1418,Maine,FUND 1,ConnectME Fund
+1419,Maryland,FUND 1,Maryland Broadband Infrastructure Grant Program 
+1420,Massachusetts,FUND 1,Last Mile Program
+1421,Michigan,FUND 1,Connecting Michigan Communities Grant
+1422,Minnesota,FUND 1,Border-to-Border Broadband Development Grant Program 
+1424,Missouri,FUND 1,Missouri Broadband Grant Program 
+1462,Illinois,FUND 1 URL,https://www.icc.illinois.gov/programs/digital-divide
+1463,Indiana ,FUND 1 URL,https://www.in.gov/ocra/nlc.htm
+1464,Iowa,FUND 1 URL,https://ocio.iowa.gov/broadband-grants 
+1465,Kansas,FUND 1 URL,http://www.kslegislature.org/li/b2021_22/measures/documents/hb2201_enrolled.pdf 
+1466,Kentucky,FUND 1 URL,https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=50280 
+1468,Maine,FUND 1 URL,https://www.maine.gov/connectme/grants
+1469,Maryland,FUND 1 URL,https://dhcd.maryland.gov/RuralBroadband/Pages/default.aspx
+1470,Massachusetts,FUND 1 URL,https://broadband.masstech.org/last-mile-programs/program-unserved-towns
+1471,Michigan,FUND 1 URL,"https://www.michigan.gov/dtmb/0,5552,7-358-82547_56345_91154_102790_102811---,00.html"
+1472,Minnesota,FUND 1 URL,https://mn.gov/deed/programs-services/broadband/grant-program/
+1474,Missouri,FUND 1 URL,https://ded.mo.gov/content/missouri-broadband-grant-program
+1425,Montana,FUND 1,Montana Broadband Infrastructure Account (federal funding) 
+1426,Nebraska,FUND 1,Nebraska Internet Enhancement Fund
+1427,Nevada,FUND 1,Broadband Infrastructure Development Grant
+1430,New Mexico,FUND 1,Library Broadband Infrastructure Fund 
+1431,New York,FUND 1,New NY Broadband Program
+1475,Montana,FUND 1 URL,https://leg.mt.gov/bills/2021/billpdf/SB0297.pdf
+1476,Nebraska,FUND 1 URL,https://psc.nebraska.gov/sites/psc.nebraska.gov/files/doc/NIEF_App_Guidelines.pdf
+1477,Nevada,FUND 1 URL,http://osit.nv.gov/Grants/Broadband_Infrastructure_Development_Grant/
+1480,New Mexico,FUND 1 URL,https://www.nmlegis.gov/Sessions/18%20Regular/final/HB0207.pdf
+1481,New York,FUND 1 URL,https://nysbroadband.ny.gov/about
+1432,North Carolina,FUND 1,Growing Rural Economies with Access to Technology (GREAT)
+1434,Ohio,FUND 1,Ohio Residential Broadband Expansion Grant Program 
+1482,North Carolina,FUND 1 URL,https://www.ncbroadband.gov/grants/great-grant
+1484,Ohio,FUND 1 URL,https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_134/bills/hb2/EN/05/hb2_05_EN?format=pdf 
+1435,Oklahoma,FUND 1,State Broadband Deployment Grant Program Fund
+1436,Oregon,FUND 1,Rural Broadband Capacity Program
+1437,Pennsylvania,FUND 1,Unserved High-Speed Broadband Funding Program 
+1439,South Carolina,FUND 1,Rural Broadband Grant Program 
+1440,South Dakota,FUND 1,Connect South Dakota Broadband 
+1441,Tennessee,FUND 1,Tennessee Broadband Accessibility Grant
+1444,Vermont,FUND 1,Vermont Universal Service Fund
+1445,Virginia,FUND 1,Virginia Telecommunications Initative (VATI)
+1446,Washington,FUND 1,Public Works Board Broadband Construction Grant and Loan Program
+1447,West Virginia,FUND 1,West Virginia Broadband Infrastructure Loan Insurance Program 
+1448,Wisconsin,FUND 1,Universal Service Fund
+1449,Wyoming,FUND 1,Broadband Infrastructure Grant Fund
+1502,Arizona,FUND 2,Arizona Rural Broadband Development Grants 
+1503,Arkansas,FUND 2,Rural ID Broadband Fund
+1504,California,FUND 2,Teleconnect Fund
+1505,Colorado,FUND 2,Colorado High Cost Support Mechanism
+1508,Florida,FUND 2,Broadband Opportunity Program 
+1511,Idaho,FUND 2,State Of Idaho Broadband Grant
+1512,Illinois,FUND 2,Connect Illinois Broadband Grant Program
+1513,Indiana ,FUND 2,Broadband Grants for Rural Areas
+1518,Maine,FUND 2,Municipal Gigabit Broadband Network Access Fund
+1520,Massachusetts,FUND 2,Last Mile Infrastructure Grant
+1524,Missouri,FUND 2,Missouri Connect & Learn 
+1525,Montana,FUND 2,Broadband Infrastructure Deployment Program 
+1526,Nebraska,FUND 2,Nebraska Universal Service Fund
+1527,Nevada,FUND 2,the Nevada Connect Kids Initiative
+1532,North Carolina,FUND 2,Industrial Development Utility Account
+1536,Oregon,FUND 2,Oregon Broadband Advisory Council Fund
+1544,Vermont,FUND 2,Broadband Innovation Grant Program
+1545,Virginia,FUND 2,Tobacco Region Revitalization Commission Last Mile Broadband Program
+1546,Washington,FUND 2,Community Economic Revitalization Board Rural Broadband Program
+1547,West Virginia,FUND 2,Broadband Enhancement Fund 
+1548,Wisconsin,FUND 2,Broadband Expansion Grants
+1485,Oklahoma,FUND 1 URL,http://webserver1.lsb.state.ok.us/cf_pdf/2021-22%20ENR/hB/HB1124%20ENR.PDF
+1486,Oregon,FUND 1 URL,http://www.orinfrastructure.org/Infrastructure-Programs/Telecommunications/Rural-Broadband-Capacity-Program/
+1487,Pennsylvania,FUND 1 URL,https://www.legis.state.pa.us/cfdocs/legis/li/uconsCheck.cfm?yr=2020&sessInd=0&act=132 
+1489,South Carolina,FUND 1 URL,https://ors.sc.gov/broadband/funding/rural-broadband-grant-program
+1490,South Dakota,FUND 1 URL,https://sdgoed.com/public-records/connectsd/
+1491,Tennessee,FUND 1 URL,https://www.tn.gov/ecd/rural-development/tennessee-broadband-grant-initiative/tnecd-broadband-accessibility-grant.html
+1494,Vermont,FUND 1 URL,https://publicservice.vermont.gov/telecom/vusf 
+1495,Virginia,FUND 1 URL,https://www.dhcd.virginia.gov/vati
+1496,Washington,FUND 1 URL,https://www.commerce.wa.gov/building-infrastructure/pwb-broadband/
+1497,West Virginia,FUND 1 URL,https://broadband.wv.gov/resources/wv-broadband-infrastructure-loan-insurance-program-app/
+1498,Wisconsin,FUND 1 URL,https://psc.wi.gov/Pages/Programs/USF.aspx 
+1499,Wyoming,FUND 1 URL,https://www.wyomingbusiness.org/broadband 
+1552,Arizona,FUND 2 URL,https://www.azcommerce.com/broadband/grant-opportunities/
+1553,Arkansas,FUND 2 URL,https://idhi.uams.edu/rural-broadband-grant/
+1554,California,FUND 2 URL,https://www.cpuc.ca.gov/ctf/
+1555,Colorado,FUND 2 URL,https://puc.colorado.gov/hcsm
+1558,Florida,FUND 2 URL,https://flsenate.gov/Session/Bill/2021/1239/BillText/er/PDF
+1561,Idaho,FUND 2 URL,https://commerce.idaho.gov/incentives-and-financing/grants/
+1562,Illinois,FUND 2 URL,https://www2.illinois.gov/dceo/AboutDCEO/GrantOpportunities/Pages/2366-1687.aspx
+1563,Indiana ,FUND 2 URL,https://www.in.gov/ocra/2336.htm
+1568,Maine,FUND 2 URL,https://legislature.maine.gov/statutes/35-A/title35-Asec9211-A.html
+1570,Massachusetts,FUND 2 URL,https://www.mass.gov/service-details/last-mile-infrastructure-grant
+1574,Missouri,FUND 2 URL,https://dese.mo.gov/communications/news-releases/missouri-schools-improve-high-speed-internet-access-through-connect
+1575,Montana,FUND 2 URL,https://leg.mt.gov/bills/2021/billpdf/SB0297.pdf
+1576,Nebraska,FUND 2 URL,https://psc.nebraska.gov/telecommunications/nebraska-universal-service-fund
+1577,Nevada,FUND 2 URL,https://osit.nv.gov/Broadband/NV_Connect_Kids_Initiative/
+1582,North Carolina,FUND 2 URL,https://edpnc.com/incentives/utility-account/
+1586,Oregon,FUND 2 URL,https://www.oregon4biz.com/Broadband-Office/OBAC/
+1594,Vermont,FUND 2 URL,https://publicservice.vermont.gov/content/broadband-innovation-grant-program
+1595,Virginia,FUND 2 URL,https://www.revitalizeva.org/grant-loan-program/grant-programs/research-development-grant-program/
+1596,Washington,FUND 2 URL,https://www.commerce.wa.gov/building-infrastructure/community-economic-revitalization-board/rural-broadband/
+1597,West Virginia,FUND 2 URL,http://www.wvlegislature.gov/WVCODE/ChapterEntire.cfm?chap=31G&art=1&section=5#01
+1598,Wisconsin,FUND 2 URL,https://psc.wi.gov/Pages/Programs/BroadbandGrants.aspx
+1605,Colorado,FUND 3,Colorado Department of Local Affairs Broadband Program 
+1611,Idaho,FUND 3,Idaho Broadband Fund 
+1613,Indiana ,FUND 3,Broadband Readiness Pilot Planning Grant
+1618,Maine,FUND 3,Community Broadband Planning Grants
+1620,Massachusetts,FUND 3,Broadband Extension Program
+1626,Nebraska,FUND 3,Rural Broadband Task Force Fund 
+1632,North Carolina,FUND 3,The Economic Infrastructure Program 
+1636,Oregon,FUND 3,Connecting Oregon Schools Fund 
+1644,Vermont,FUND 3,Broadband Expansion Loan Program
+1655,Colorado,FUND 3 URL,https://cdola.colorado.gov/funding-programs/broadband-program 
+1661,Idaho,FUND 3 URL,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/legislation/H0127.pdf
+1663,Indiana ,FUND 3 URL,https://www.in.gov/ocra/2371.htm
+1668,Maine,FUND 3 URL,http://www.mainelegislature.org/legis/statutes/35-A/title35-Asec9217.html 
+1670,Massachusetts,FUND 3 URL,https://broadband.masstech.org/last-mile-programs/program-partially-served-cable-towns
+1676,Nebraska,FUND 3 URL,https://nebraskalegislature.gov/FloorDocs/107/PDF/Final/LB384.pdf  
+1682,North Carolina,FUND 3 URL,https://www.nccommerce.com/grants-incentives/public-infrastructure-funds/infrastructure-state-rural-grants
+1686,Oregon,FUND 3 URL,https://www.oregon.gov/ode/schools-and-districts/Pages/State-E-Rate-Program-and-Broadband-Connectivity.aspx
+1694,Vermont,FUND 3 URL,https://www.veda.org/broadband-loan-program
+1645,Virginia,FUND 3,Growth and Opportunity (GO) Virginia Middle Mile Program
+1695,Virginia,FUND 3 URL,https://govirginia.org/
+1646,Washington,FUND 3,State Universal Service Fund 
+1713,Indiana ,FUND 4,Indiana Broadband Connectivity Program 
+1726,Nebraska,FUND 4,Broadband Bridge Program
+1736,Oregon,FUND 4,The Broadband Fund
+1744,Vermont,FUND 4,ThinkVermont Innovation Grant Program 
+1745,Virginia,FUND 4,Agriculture and Forestry Industries Development Fund
+1845,Virginia,FUND 5,Broadband Infrastructure Loan Fund
+1945,Virginia,FUND 6,Community Development Block Grant 
+1696,Washington,FUND 3 URL,http://app.leg.wa.gov/RCW/default.aspx?cite=80.36.650
+1763,Indiana ,FUND 4 URL,http://184.175.130.101/legislative/2021/bills/senate/377#document-54ff8363
+1776,Nebraska,FUND 4 URL,https://nebraskalegislature.gov/FloorDocs/107/PDF/Final/LB388.pdf
+1786,Oregon,FUND 4 URL,https://olis.oregonlegislature.gov/liz/2020S1/Downloads/MeasureDocument/SB1603 
+1794,Vermont,FUND 4 URL,"https://publicservice.vermont.gov/content/broadband-innovation-grant-program#:~:text=The%20Broadband%20Innovation%20Grant%20program,and%20underserved%20areas%20of%20Vermont."
+1795,Virginia,FUND 4 URL,http://www.vdacs.virginia.gov/agriculture-afid-facility-grants.shtml
+1895,Virginia,FUND 5 URL,https://ilsr.org/rule/2887-2/ 
+1995,Virginia,FUND 6 URL ,https://www.dhcd.virginia.gov/cdbg-broadband
+1101,Alaska,GOAL 1,https://www.denali.gov/updated-broadband-plan-document/
+1102,Arizona,GOAL 1,https://azlibrary.gov/sites/default/files/erate_2018_az_broadbandstrategicplan_final.PDF
+1103,Arkansas,GOAL 1,https://governor.arkansas.gov/images/uploads/Arkansas_State_Broadband_Plan_Final_5.15_.19_.pdf
+1104,California,GOAL 1,https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1665
+1105,Colorado,GOAL 1,https://drive.google.com/file/d/1U6n1Ei2mn8ZuP31A9PRRi4FZ40WaiJ0F/view
+1109,Georgia,GOAL 1,https://broadband.georgia.gov/media/7/download
+1111,Idaho,GOAL 1,https://gov.idaho.gov/wp-content/uploads/sites/74/2019/11/bbtf-final-report_11-2019.pdf
+1112,Illinois,GOAL 1,https://www2.illinois.gov/dceo/ConnectIllinois/Documents/Broadband%20Strategic%20Plan%202.5.20.pdf
+1115,Kansas,GOAL 1,https://www.ksrevisor.org/statutes/chapters/ch66/066_020_0001.html
+1117,Louisiana,GOAL 1,https://gov.louisiana.gov/page/Broadband-for-Louisiana
+1118,Maine,GOAL 1,http://www.mainelegislature.org/legis/statutes/35-A/title35-Asec9202-A.html
+1119,Maryland,GOAL 1,https://content.govdelivery.com/attachments/MDGOV/2017/06/28/file_attachments/838894/EO%2B01.01.2014.14.pdf
+1120,Massachusetts,GOAL 1,https://broadband.masstech.org/building-networks/last-mile/program-unserved-towns/last-mile-program-policy
+1121,Michigan,GOAL 1,https://connectednation.org/wp-content/uploads/sites/13/2019/01/Final-Roadmap-8-8-18.pdf
+1122,Minnesota,GOAL 1,https://www.revisor.mn.gov/statutes/2018/cite/237.012
+1124,Missouri,GOAL 1,https://ded.mo.gov/sites/default/files/Missouri%20Broadband%20Plan%20(2).pdf
+1126,Nebraska,GOAL 1,https://nebraskalegislature.gov/FloorDocs/105/PDF/Slip/LB994.pdf
+1131,New York,GOAL 1,https://nysbroadband.ny.gov/
+1132,North Carolina,GOAL 1,https://www.ncbroadband.gov/broadband-nc/state-broadband-plan
+1133,North Dakota,GOAL 1,https://www.nd.gov/itd/sites/itd/files/legacy/alliances/broadband/ND-Broadband-Plan-2019.pdf
+1136,Oregon,GOAL 1,https://www.oregonlaws.org/ors/759.016
+1137,Pennsylvania,GOAL 1,https://www.governor.pa.gov/wp-content/uploads/2019/06/20190506-Restore-Pennsylvania-Broadband-Initiative.pdf
+1140,South Dakota,GOAL 1,https://sdgoed.com/wp-content/uploads/2020/08/State-Broadband-Plan.pdf
+1141,Tennessee,GOAL 1,https://www.tn.gov/transparenttn/state-financial-overview/open-ecd/openecd/tnecd-performance-metrics/openecd-rural-community-development-quick-stats/broadband-accessibility-grants.html 
+1142,Texas,GOAL 1,https://statutes.capitol.texas.gov/Docs/UT/htm/UT.58.htm
+1144,Vermont,GOAL 1,https://publicservice.vermont.gov/sites/dps/files/documents/EBAP%20Public%20FINAL%20DRAFT%20no%20appendices%206-23-2020.pdf
+1145,Virginia,GOAL 1,https://commonwealthconnect.virginiainteractive.org/sites/default/files/CIT%20Documents/Commonwealth%20Connect%20Report.pdf
+1146,Washington,GOAL 1,"https://app.leg.wa.gov/RCW/default.aspx?cite=43.330.536#:~:text=(3)%20By%202028%2C%20all,hundred%20fifty%20megabits%20per%20second."
+1147,West Virginia,GOAL 1,http://www.wvlegislature.gov/WVCODE/code.cfm?chap=31G&art=1
+1148,Wisconsin,GOAL 1,https://psc.wi.gov/Documents/broadband/Wisconsin%20Broadband%20Plan%202019.pdf
+1149,Wyoming,GOAL 1,https://www.wyomingbusiness.org/Uploads/wbbp%20final.pdf
+1154,California,GOAL 2,https://www.gov.ca.gov/wp-content/uploads/2020/08/8.14.20-EO-N-73-20-text.pdf
+1194,Vermont,GOAL 2,"https://legislature.vermont.gov/statutes/section/30/005/00202c
+
+"
+1250,Alabama,MAP 1 URL,https://adecagis.alabama.gov/broadband2019/
+1253,Arkansas,MAP 1 URL,https://broadband.arkansas.gov/ar-rural-connect/targeted-areas/
+1254,California,MAP 1 URL,http://www.broadbandmap.ca.gov/
+1255,Colorado,MAP 1 URL,https://gis.colorado.gov/broadbandviewer/index.html?Viewer=broadbandmapping.broadbandmapping_hv/
+1259,Georgia,MAP 1 URL,https://broadband.georgia.gov/broadband-mapping
+1260,Hawaii,MAP 1 URL,http://cca.hawaii.gov/broadband/no-internet-service-map/
+1261,Idaho,MAP 1 URL,https://broadbandnow.com/Idaho
+1262,Illinois,MAP 1 URL,http://illinois.maps.arcgis.com/apps/webappviewer/index.html?id=f9101de0f4564384836f4905bd0b3e2e
+1263,Indiana ,MAP 1 URL,https://www.indianabroadbandmap.com/
+1264,Iowa,MAP 1 URL,https://ocio.iowa.gov/broadband-availability-map-version-2
+1265,Kansas,MAP 1 URL,https://cngis.maps.arcgis.com/apps/webappviewer/index.html?id=72ab65f4ac2c4207abd1e575fa148cb4&extent=-11379818.9931%2C4398192.5707%2C-10557968.065%2C4910626.4083%2C102100
+1268,Maine,MAP 1 URL,https://www.maine.gov/connectme/communities-resources/Broadbandmapping
+1269,Maryland,MAP 1 URL,https://salisburyu.maps.arcgis.com/apps/View/index.html?appid=31dd4f45911e416f9b6920e87568880c
+1270,Massachusetts,MAP 1 URL,https://broadband.masstech.org/news-and-resources/map-gallery
+1271,Michigan,MAP 1 URL,https://gis.connectednation.org/portal/apps/webappviewer/index.html?id=98c4d702d00040c9be673787bfeb8162
+1272,Minnesota,MAP 1 URL,https://gis.connectednation.org/portal/apps/webappviewer/index.html?id=a2d243ccf7e547eba2ec0d5c80c80917
+1275,Montana,MAP 1 URL,https://mslservices.mt.gov/legislative_snapshot/Broadband/Default.aspx#Maps
+1276,Nebraska,MAP 1 URL,https://gis.ne.gov/portal/apps/webappviewer/index.html?id=ba42a254d4f14f4783a14193c12a443e  
+1278,New Hampshire,MAP 1 URL,https://www.unh.edu/broadband/broadband-mapping
+1280,New Mexico,MAP 1 URL,https://nmbbmapping.org/mapping/
+1281,New York,MAP 1 URL,https://map.nysbroadband.ny.gov/html5viewer/?viewer=broadband
+1282,North Carolina,MAP 1 URL,https://bi.nc.gov/t/DIT-Broadband/views/2017Indices-CensusTract/NCCensusTractsStory?:isGuestRedirectFromVizportal=y&:embed=y
+1284,Ohio,MAP 1 URL,https://innovateohio.gov/wps/portal/gov/innovate/priorities/resources/broadband/overview
+1286,Oregon,MAP 1 URL,https://www.oregon4biz.com/Broadband-Office/Interactive-Map/
+1287,Pennsylvania,MAP 1 URL,https://extension.psu.edu/pennsylvania-broadband-map-app
+1289,South Carolina,MAP 1 URL,https://south-carolina.vetro.io/map#loc=6.47/33.794/-81.199
+1290,South Dakota,MAP 1 URL,https://puc.sd.gov/commission/telecom/Broadbandmaps.pdf
+1200,Alabama,MAP 1,ADECA Broadband Maps 
+1203,Arkansas,MAP 1,Arkansas Coverage Areas
+1204,California,MAP 1,California Interactive Broadband Map
+1205,Colorado,MAP 1,Colorado Broadband Map 
+1209,Georgia,MAP 1,Georgia Broadband Map 
+1210,Hawaii,MAP 1,"""No Internet Service"" Mapping Tool"
+1211,Idaho,MAP 1,Idaho BroadbandNow Map
+1212,Illinois,MAP 1,Illinois Broadband 2020
+1213,Indiana ,MAP 1,Indiana Broadband Map
+1214,Iowa,MAP 1,Broadband Availability Map
+1215,Kansas,MAP 1,The Kansas Broadband Map
+1217,Louisiana,MAP 1,https://dra.gov/about-dra/research-and-data/active-requests-for-proposals/ 
+1218,Maine,MAP 1,Broadband Mapping
+1219,Maryland,MAP 1,Rural Maryland Council Statewide Broadband Assessment 
+1220,Massachusetts,MAP 1,Massachusetts Broadband Institute Map Gallery
+1221,Michigan,MAP 1,Interactive Broadband Map
+1222,Minnesota,MAP 1,Minnesota Broadband Map 
+1225,Montana,MAP 1,Montana Broadband Maps
+1226,Nebraska,MAP 1,Nebraska Broadband Mapping Project
+1228,New Hampshire,MAP 1,The New Hampshire Broadband Mapping and Planning Program
+1230,New Mexico,MAP 1,New Mexico Broadband Map
+1231,New York,MAP 1,New York State Residential Broadband Availability Map
+1232,North Carolina,MAP 1,Broadband Availability and Adoption in North Carolina's Census Tracts
+1234,Ohio,MAP 1,Ohio Broadband Map
+1236,Oregon,MAP 1,Oregon Broadband Map 
+1237,Pennsylvania,MAP 1,Pennsylvania Broadband Map
+1239,South Carolina,MAP 1,South Carolina Broadband Map
+1240,South Dakota,MAP 1,South Dakota Broadband Maps (2019) 
+1242,Texas,MAP 1,Connected Nation Map of 100/10 Mbps broadband coverage 
+1243,Utah,MAP 1,Utah Residential Broadband Map
+1244,Vermont,MAP 1,Broadband High-Speed Internet Availability 
+1245,Virginia,MAP 1,Virginia Broadband Availability Map 
+1246,Washington,MAP 1,State Broadband Access and Speed Survey Results 
+1247,West Virginia,MAP 1,Interactive West Virginia Broadband Map 
+1248,Wisconsin,MAP 1,Wisconsin Broadband Map
+1249,Wyoming,MAP 1,Wyoming Broadband Survey Results Map 
+1305,Colorado,MAP 2,Broadband Board Data Toolkit 
+1310,Hawaii,MAP 2,"""Fixed Wireline Broadband Speeds"" Map"
+1337,Pennsylvania,MAP 2,Department of Community and Economic Development Map 
+1343,Utah,MAP 2,Utah Economic Development Map
+3,Arkansas,OFFICE 1,Arkansas State Broadband Office
+4,California,OFFICE 1,Office of Broadband and Digital Literacy
+5,Colorado,OFFICE 1,Colorado Broadband Office
+6,Connecticut,OFFICE 1,Connecticut State Broadband Office
+8,Florida,OFFICE 1,Florida Broadband Office
+9,Georgia,OFFICE 1,Georgia Broadband Deployment Initiative
+12,Illinois,OFFICE 1,Illinois Office of Broadband 
+13,Indiana ,OFFICE 1,Indiana Broadband Office 
+15,Kansas,OFFICE 1,Office of Broadband Development 
+16,Kentucky,OFFICE 1,Kentucky Communications Network Authority
+17,Louisiana,OFFICE 1,Office of Broadband and Connectivity 
+18,Maine,OFFICE 1,ConnectME Broadband Authority
+19,Maryland,OFFICE 1,Office of Rural Broadband 
+20,Massachusetts,OFFICE 1,Massachusetts Broadband Institute
+22,Minnesota,OFFICE 1,Office of Broadband Development
+24,Missouri,OFFICE 1,Broadband Development Office
+30,New Mexico,OFFICE 1,New Mexico State Office of Broadband 
+31,New York,OFFICE 1,New York State Broadband Program Office
+32,North Carolina,OFFICE 1,Broadband Infrastructure Office
+34,Ohio,OFFICE 1,Broadband Expansion Program Authority
+36,Oregon,OFFICE 1,Oregon Broadband Office
+38,Rhode Island,OFFICE 1,Connect RI
+45,Virginia,OFFICE 1,"Office of Broadband, Department of Housing and Community Development"
+1292,Texas,MAP 1 URL,https://connectednation.org/texas/wp-content/uploads/sites/19/2020/08/TX_Broadband_100x10Mbps_2020_07_31.jpg
+1293,Utah,MAP 1 URL,https://mapserv.utah.gov/broadband/
+1294,Vermont,MAP 1 URL,https://publicservice.vermont.gov/content/broadband-availability
+1295,Virginia,MAP 1 URL,https://broadband.cgit.vt.edu/IntegratedToolbox/
+1296,Washington,MAP 1 URL,www.broadband.wa.gov
+1297,West Virginia,MAP 1 URL,https://broadband.wv.gov/interactive-west-virginia-broadband-map/
+1298,Wisconsin,MAP 1 URL,https://maps.psc.wi.gov/apps/WisconsinBroadbandMap/
+1299,Wyoming,MAP 1 URL,https://uwyo.maps.arcgis.com/apps/opsdashboard/index.html#/da679a3adfa94f49928996731246c0c0
+1355,Colorado,MAP 2 URL,https://gis.colorado.gov/broadbandboard/
+1360,Hawaii,MAP 2 URL,http://cca.hawaii.gov/broadband/fixed-wireline-broadband-speeds-in-hawaii/
+1387,Pennsylvania,MAP 2 URL,https://dced.pa.gov/broadband-resources/
+1393,Utah,MAP 2 URL,https://locate.utah.gov/
+53,Arkansas,OFFICE 1 URL,https://broadband.arkansas.gov/
+54,California,OFFICE 1 URL,https://cdt.ca.gov/broadband-and-digital-literacy-office/
+55,Colorado,OFFICE 1 URL,http://broadband.co.gov/
+56,Connecticut,OFFICE 1 URL,https://portal.ct.gov/OCC/Services/Broadband
+58,Florida,OFFICE 1 URL,https://floridajobs.org/community-planning-and-development/broadband/office-of-broadband
+59,Georgia,OFFICE 1 URL,https://broadband.georgia.gov
+62,Illinois,OFFICE 1 URL,https://www2.illinois.gov/dceo/ConnectIllinois/Pages/ILOfficeofBroadband.aspx
+63,Indiana ,OFFICE 1 URL,https://www.in.gov/indianabroadband/
+65,Kansas,OFFICE 1 URL,https://www.kansascommerce.gov/community-development/infrastructure-assistance/broadband-development/
+66,Kentucky,OFFICE 1 URL,https://kentuckywired.ky.gov/about/Pages/default.aspx
+67,Louisiana,OFFICE 1 URL,http://www.legis.la.gov/legis/ViewDocument.aspx?d=1194940 
+68,Maine,OFFICE 1 URL,https://www.maine.gov/connectme/home
+69,Maryland,OFFICE 1 URL,https://dhcd.maryland.gov/RuralBroadband/Pages/default.aspx
+70,Massachusetts,OFFICE 1 URL,https://broadband.masstech.org/
+72,Minnesota,OFFICE 1 URL,https://mn.gov/deed/programs-services/broadband/
+74,Missouri,OFFICE 1 URL,https://ded.mo.gov/content/broadband-development
+80,New Mexico,OFFICE 1 URL,https://www.doit.state.nm.us/broadband/index.shtml
+81,New York,OFFICE 1 URL,https://nysbroadband.ny.gov/
+82,North Carolina,OFFICE 1 URL,https://www.ncbroadband.gov
+84,Ohio,OFFICE 1 URL,https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_134/bills/hb2/EN/05/hb2_05_EN?format=pdf 
+86,Oregon,OFFICE 1 URL,www.broadband.oregon.gov 
+88,Rhode Island,OFFICE 1 URL,https://www.innovate.ri.gov/connectri
+95,Virginia,OFFICE 1 URL,https://www.dhcd.virginia.gov/broadband
+46,Washington,OFFICE 1,Washington Statewide Broadband Office
+47,West Virginia,OFFICE 1,Office of Broadband 
+48,Wisconsin,OFFICE 1,Wisconsin Broadband Office
+119,Maryland,OFFICE 2,Office of Statewide Broadband 
+96,Washington,OFFICE 1 URL,https://www.commerce.wa.gov/building-infrastructure/washington-statewide-broadband-act/
+97,West Virginia,OFFICE 1 URL,https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=HB2002%20SUB%20ENR.htm&yr=2021&sesstype=RS&billtype=B&houseorig=H&i=2002
+98,Wisconsin,OFFICE 1 URL,https://psc.wi.gov/Pages/Programs/WBO.aspx
+169,Maryland,OFFICE 2 URL,https://mgaleg.maryland.gov/2021RS/bills/sb/sb0066E.pdf
+130,New Mexico,OFFICE 2,Office of Broadband Access and Expansion 
+1000,Alabama,PLAN 1,Broadband Alabama Strategy
+1001,Alaska,PLAN 1,2019 Updated Broadband Plan
+1002,Arizona,PLAN 1,Arizona Statewide Broadband Strategic Plan
+1003,Arkansas,PLAN 1,Arkansas State Broadband Plan
+1004,California,PLAN 1,Broadband for All Action Plan
+1009,Georgia,PLAN 1,The State of Georgia Broadband Plan
+1010,Hawaii,PLAN 1,Hawaii Broadband Strategic Plan
+1011,Idaho,PLAN 1,Broadband Access is Imperative for Idaho
+1012,Illinois,PLAN 1,Connect Illinois: Broadband Strategic Plan
+1013,Indiana ,PLAN 1,Indiana Statewide Broadband Strategic Plan
+1017,Louisiana,PLAN 1,Broadband for Everyone in Louisiana
+1018,Maine,PLAN 1,Detailed 2019-2021 Strategic Plan for Broadband Service in Maine
+1021,Michigan,PLAN 1,Michigan Broadband Roadmap
+1022,Minnesota,PLAN 1,Minnesota Broadband Infrastructure Plan
+1024,Missouri,PLAN 1,Missouri Broadband Plan
+1025,Montana,PLAN 1,Interconnectivity and Telecommunications Key Industry Network Report and Recommendations
+1026,Nebraska,PLAN 1,Rural Broadband Task Force Report
+1027,Nevada,PLAN 1,The Nevada Broadband Task Force Report
+1028,New Hampshire,PLAN 1,Broadband: The Connection to New Hampshire's Future
+1030,New Mexico,PLAN 1,"State of New Mexico
+Broadband Strategic Plan
+and Rural Broadband Assessment"
+1032,North Carolina,PLAN 1,Connecting North Carolina 
+1033,North Dakota,PLAN 1,North Dakota Broadband Plan 
+1034,Ohio,PLAN 1,The Ohio Broadband Strategy
+1035,Oklahoma,PLAN 1,Oklahoma State Broadband Plan
+1036,Oregon,PLAN 1,Oregon Broadband Office Strategic Plan
+1040,South Dakota,PLAN 1,Broadband in South Dakota 
+1041,Tennessee,PLAN 1,Report of the Tennessee Advisory Commission on Intergovernmental Relations 
+1042,Texas,PLAN 1,Broadband in Texas
+1043,Utah,PLAN 1,Utah Broadband Advisory Council Plan
+1044,Vermont,PLAN 1,Broadband Action Plan
+1045,Virginia,PLAN 1,Commonwealth Connect
+1046,Washington,PLAN 1,Broadband in Washington 2019
+1047,West Virginia,PLAN 1,West Virginia State Broadband Plan 2020-2025 
+1048,Wisconsin,PLAN 1,Wisconsin Broadband Plan 2021
+1049,Wyoming,PLAN 1,Broadband Enhancement Plan
+700,Alabama,TASK FORCE 1,Alabama Rural Broadband Legislative Oversight Committee
+704,California,TASK FORCE 1,California Broadband Council
+705,Colorado,TASK FORCE 1,Broadband Deployment Board
+706,Connecticut,TASK FORCE 1,Connecticut Commission for Educational Technology
+180,New Mexico,OFFICE 2 URL,https://www.nmlegis.gov/Sessions/21%20Regular/bills/senate/SB0093.pdf
+1050,Alabama,PLAN 1 URL,https://adeca.alabama.gov/Divisions/energy/broadband/Broadband%20Docs/Broadband%20Alabama%20Strategy.pdf
+1051,Alaska,PLAN 1 URL,https://www.denali.gov/updated-broadband-plan-document/
+1052,Arizona,PLAN 1 URL,https://azfirstnet.az.gov/sites/default/files/media/AZ%20Broadband%20Strategic%20Plan_FINAL.pdf
+1053,Arkansas,PLAN 1 URL,https://governor.arkansas.gov/images/uploads/Arkansas_State_Broadband_Plan_Final_5.15_.19_.pdf
+1054,California,PLAN 1 URL,https://broadbandcouncil.ca.gov/wp-content/uploads/sites/68/2020/12/BB4All-Action-Plan-Final.pdf 
+1059,Georgia,PLAN 1 URL,https://broadband.georgia.gov/media/7/download
+1060,Hawaii,PLAN 1 URL,http://broadband.hawaii.gov/wp-content/uploads/2020/11/Hawaii-BB-Plan-2020-FINAL_10-23-20_v1.1.pdf
+1061,Idaho,PLAN 1 URL,https://commerce.idaho.gov/content/uploads/2019/11/Broadband-Taskforce-Final_v3.pdf
+1062,Illinois,PLAN 1 URL,https://www2.illinois.gov/dceo/ConnectIllinois/Documents/Broadband%20Strategic%20Plan%202.5.20.pdf
+1063,Indiana ,PLAN 1 URL,https://www.in.gov/indianabroadband/files/indiana-statewide-broadband-strategic-plan-3-24-2020.pdf
+1067,Louisiana,PLAN 1 URL,https://gov.louisiana.gov/assets/docs/Broadband-for-Everyone-in-Louisiana-(BEL)-Plan-FINAL.pdf
+1068,Maine,PLAN 1 URL,https://www.maine.gov/connectme/sites/maine.gov.connectme/files/inline-files/ConnectME%20Authority%20%202019-2021%20Strategic%20Plan.pdf
+1071,Michigan,PLAN 1 URL,https://connectednation.org/wp-content/uploads/sites/13/2019/01/Final-Roadmap-8-8-18.pdf
+1072,Minnesota,PLAN 1 URL,https://mn.gov/deed/assets/state-broadband-plan_tcm1045-380006.pdf
+1074,Missouri,PLAN 1 URL,https://ded.mo.gov/sites/default/files/Missouri%20Broadband%20Plan%20(2).pdf
+1075,Montana,PLAN 1 URL,https://mainstreetmontanaproject.com/wp-content/uploads/2019/03/Attachment-7_-Interconnectivity-Telecommunications.pdf
+1076,Nebraska,PLAN 1 URL,https://ruralbroadband.nebraska.gov/reports/2019/RBTF2019Reportfinal.pdf
+1077,Nevada,PLAN 1 URL,https://osit.nv.gov/uploadedFiles/ositnvgov/Content/Broadband/2016%20Broadband%20Task%20Force%20Report%20to%20the%20Governor%206-30-2016%20%5bFINAL%5d.pdf
+1078,New Hampshire,PLAN 1 URL,https://www.unh.edu/broadband/sites/www.unh.edu.broadband/files/media/kb-reports/initiatives/NH_Broadband_Report_2015_UNH.pdf
+1080,New Mexico,PLAN 1 URL,https://www.doit.state.nm.us/broadband/reports/nmbbp_strategic20200616Rev2Final.pdf
+1082,North Carolina,PLAN 1 URL,https://www.ncbroadband.gov/data-reports/connecting-north-carolina-state-broadband-plan
+1083,North Dakota,PLAN 1 URL,https://www.nd.gov/itd/sites/itd/files/legacy/alliances/broadband/ND-Broadband-Plan-2019.pdf
+1084,Ohio,PLAN 1 URL,https://innovateohio.gov/wps/wcm/connect/gov/bde9a8ce-5f93-4a04-b937-102788469bdb/OhioBroadbandStrategy_121919.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE.Z18_M1HGGIK0N0JO00QO9DDDDM3000-bde9a8ce-5f93-4a04-b937-102788469bdb-mYuKib6
+1085,Oklahoma,PLAN 1 URL,https://onenet.net/wp-content/uploads/2020/03/Oklahoma-State-Broadband-Plan-October-2019-Accessible.pdf
+1086,Oregon,PLAN 1 URL,https://www.oregon4biz.com/dev/www/BOR/Broadband-Office/OBAC/Reports/BroadbandStratPlan2020.pdf
+1090,South Dakota,PLAN 1 URL,https://sdgoed.com/wp-content/uploads/2020/08/State-Broadband-Plan.pdf
+1091,Tennessee,PLAN 1 URL,https://www.tn.gov/content/dam/tn/tacir/2021publications/2021_BroadbandUpdate.pdf 
+1092,Texas,PLAN 1 URL,https://gov.texas.gov/uploads/files/business/Texas_Broadband_Briefing_Book_-_April_2020.pdf
+1093,Utah,PLAN 1 URL,https://business.utah.gov/wp-content/uploads/2020/07/Utah-Broadband-Advisory-Council-Plan-2020.pdf
+1094,Vermont,PLAN 1 URL,https://publicservice.vermont.gov/sites/dps/files/documents/EBAP%20Public%20FINAL%20DRAFT%20no%20appendices%206-23-2020.pdf
+1095,Virginia,PLAN 1 URL,https://www.commonwealthconnect.virginia.gov/sites/default/files/CIT%20Documents/Commonwealth%20Connect%20Report.pdf
+1096,Washington,PLAN 1 URL,https://data.wa.gov/stories/s/irv9-b275
+1097,West Virginia,PLAN 1 URL,https://broadband.wv.gov/wp-content/uploads/2020/01/West_Virginia_State_Broadband_Plan_2020-2025.pdf
+1098,Wisconsin,PLAN 1 URL,https://psc.wi.gov/Documents/broadband/WisconsinBroadbandPlan2021.pdf 
+1099,Wyoming,PLAN 1 URL,https://www.wyomingbusiness.org/Uploads/wbbp%20final.pdf
+750,Alabama,TASK FORCE 1 URL,https://adeca.alabama.gov/wp-content/uploads/Alabama-Broadband-Accessibility-Act.pdf
+754,California,TASK FORCE 1 URL,https://broadbandcouncil.ca.gov/
+755,Colorado,TASK FORCE 1 URL,https://broadbandfund.colorado.gov/broadband-deployment-board
+756,Connecticut,TASK FORCE 1 URL,https://portal.ct.gov/DAS/CTEdTech/Commission-for-Educational-Technology/Educational-Technology-Goals-and-Plan
+707,Delaware,TASK FORCE 1,Delaware Broadband Initiative
+710,Hawaii,TASK FORCE 1,Broadband Assistance Advisory Council (BAAC)
+711,Idaho,TASK FORCE 1,Education Opportunity Resource Committee
+712,Illinois,TASK FORCE 1,Broadband Advisory Council
+714,Iowa,TASK FORCE 1,Empowering Rural Iowa
+715,Kansas,TASK FORCE 1,Broadband Expansion Task Force
+716,Kentucky,TASK FORCE 1,Kentucky Communications Network Authority Advisory Group
+717,Louisiana,TASK FORCE 1,Broadband for Everyone in Louisiana (BEL) Commission
+718,Maine,TASK FORCE 1,ConnectME Broadband Authority
+719,Maryland,TASK FORCE 1,Taskforce for Rural Broadband
+720,Massachusetts,TASK FORCE 1,Massachusetts Broadband Institute Board of Directors
+721,Michigan,TASK FORCE 1,Connecting Michigan Taskforce
+722,Minnesota,TASK FORCE 1,The Governor's Task Force on Broadband
+726,Nebraska,TASK FORCE 1,Rural Broadband Task Force
+727,Nevada,TASK FORCE 1,Telecommunications Advisory Council
+728,New Hampshire,TASK FORCE 1,Commission to Study the Environmental and Health Effects of Evolving 5G Technology
+729,New Jersey,TASK FORCE 1,New Jersey's State Broadband Initiative
+730,New Mexico,TASK FORCE 1,Connect New Mexico Council 
+732,North Carolina,TASK FORCE 1,Governor's Task Force on Connecting North Carolina
+733,North Dakota,TASK FORCE 1,STAGEnet Committees
+735,Oklahoma,TASK FORCE 1,Oklahoma State Broadband Advisory Council
+757,Delaware,TASK FORCE 1 URL,https://broadband.delaware.gov
+760,Hawaii,TASK FORCE 1 URL,http://cca.hawaii.gov/broadband/hawaii-broadband-assistance-advisory-council/
+761,Idaho,TASK FORCE 1 URL,http://www.sde.idaho.gov/tech-services/broadband/
+762,Illinois,TASK FORCE 1 URL,https://www2.illinois.gov/sites/bac/SitePages/AppointmentsDetail.aspx?BCID=1167
+764,Iowa,TASK FORCE 1 URL,https://governor.iowa.gov/goals/empowering-rural-iowa
+765,Kansas,TASK FORCE 1 URL,http://www.kslegislature.org/li_2020/b2019_20/committees/ctte_tf_broadband_expansion_planning_task_force_1/
+766,Kentucky,TASK FORCE 1 URL,https://kentuckywired.ky.gov/Resinfo/Pages/KCNA-Advisory-Group.aspx
+767,Louisiana,TASK FORCE 1 URL,https://gov.louisiana.gov/page/Broadband-for-Louisiana
+768,Maine,TASK FORCE 1 URL,https://www.maine.gov/connectme/home
+769,Maryland,TASK FORCE 1 URL,https://rural.maryland.gov/projects/taskforce-for-rural-broadband/ 
+770,Massachusetts,TASK FORCE 1 URL,https://broadband.masstech.org/meet-masstech/our-team/board
+771,Michigan,TASK FORCE 1 URL,"https://www.michigan.gov/whitmer/0,9309,7-387-90499_90640-542115--,00.html"
+772,Minnesota,TASK FORCE 1 URL,https://mn.gov/deed/programs-services/broadband/task-force/
+776,Nebraska,TASK FORCE 1 URL,https://ruralbroadband.nebraska.gov/
+777,Nevada,TASK FORCE 1 URL,http://osit.nv.gov/Broadband/Telecommunications_Advisory_Council/ 
+778,New Hampshire,TASK FORCE 1 URL,http://www.gencourt.state.nh.us/statstudcomm/committees/1474/default.html
+779,New Jersey,TASK FORCE 1 URL,https://www.state.nj.us/it/connectingnj/assets/documents/whitePaper.pdf
+780,New Mexico,TASK FORCE 1 URL,https://www.nmlegis.gov/Sessions/21%20Regular/final/HB0010.pdf 
+782,North Carolina,TASK FORCE 1 URL,https://it.nc.gov/news/events/2020/09/30/governors-task-force-connecting-north-carolina/governors-task-force
+783,North Dakota,TASK FORCE 1 URL,https://www.nd.gov/itd/statewide-alliances/stagenet/stagenet-governance-structure/stagenet-committees
+785,Oklahoma,TASK FORCE 1 URL,https://www.okcommerce.gov/wp-content/uploads/RBEC-Broadband-Coordination-Summary-August-2020.pdf
+736,Oregon,TASK FORCE 1,Oregon Broadband Advisory Council
+742,Texas,TASK FORCE 1,Governor’s Broadband Development Council
+743,Utah,TASK FORCE 1,Utah Broadband Advisory Council
+744,Vermont,TASK FORCE 1,Telecommunications and Connectivity Advisory Board
+745,Virginia,TASK FORCE 1,Broadband Advisory Council
+747,West Virginia,TASK FORCE 1,West Virginia Broadband Enhancement Council
+748,Wisconsin,TASK FORCE 1,Governor's Task Force on Broadband Access
+749,Wyoming,TASK FORCE 1,Broadband Advisory Council
+800,Alabama,TASK FORCE 2,Advanced Small Wireless Facilities Deployment Task Force
+805,Colorado,TASK FORCE 2,Broadband Advisory Board
+810,Hawaii,TASK FORCE 2,Strategic Telehealth Advisory Council
+786,Oregon,TASK FORCE 1 URL,www.broadband-oregon.org 
+792,Texas,TASK FORCE 1 URL,https://gov.texas.gov/business/page/governors-broadband-development-council
+793,Utah,TASK FORCE 1 URL,https://business.utah.gov/events/broadband-advisory-council/
+794,Vermont,TASK FORCE 1 URL,https://publicservice.vermont.gov/connectivity/advisory_board 
+795,Virginia,TASK FORCE 1 URL,https://www.dhcd.virginia.gov/broadband-advisory-council
+797,West Virginia,TASK FORCE 1 URL,https://broadband.wv.gov/
+798,Wisconsin,TASK FORCE 1 URL,https://psc.wi.gov/Pages/Programs/BroadbandGovernorsTaskForce.aspx
+799,Wyoming,TASK FORCE 1 URL,http://www.wyomingbusiness.org/broadband
+850,Alabama,TASK FORCE 2 URL,https://arc-sos.state.al.us/ucp/B19156AA.BH4.pdf
+855,Colorado,TASK FORCE 2 URL,https://broadband.co.gov/broadband-advisory-board/ 
+860,Hawaii,TASK FORCE 2 URL,https://www.capitol.hawaii.gov/session2020/bills/HB1690_.pdf
+811,Idaho,TASK FORCE 2,Idaho Broadband Task Force
+817,Louisiana,TASK FORCE 2,Task Force on Access to Broadband High-Speed Internet Service
+826,Nebraska,TASK FORCE 2,The Nebraska Broadband Initiative 
+828,New Hampshire,TASK FORCE 2,Rural Broadband Initiative
+829,New Jersey,TASK FORCE 2,Broadband Access Study Commission 
+861,Idaho,TASK FORCE 2 URL,https://gov.idaho.gov/broadband-task-force/
+867,Louisiana,TASK FORCE 2 URL,http://www.legis.la.gov/legis/ViewDocument.aspx?d=1139917
+876,Nebraska,TASK FORCE 2 URL,http://broadband.nebraska.gov/about-nebraska-broadband
+878,New Hampshire,TASK FORCE 2 URL,https://www.unh.edu/broadband/rural-broadband-initiative
+879,New Jersey,TASK FORCE 2 URL,https://www.njleg.state.nj.us/2020/Bills/A1000/850_R3.PDF
+835,Oklahoma,TASK FORCE 2,Rural Broadband Expansion Council
+885,Oklahoma,TASK FORCE 2 URL,https://www.okcommerce.gov/about-us/rural-broadband-expansion-council/
+911,Idaho,TASK FORCE 3,Idaho Broadband Advisory Board 
+961,Idaho,TASK FORCE 3 URL,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/legislation/H0127.pdf

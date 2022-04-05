@@ -1,0 +1,53 @@
+﻿Row,Column,Jurisdiction,Abbreviation,Region
+0,6.5,National,US,National
+0,0.5,Alaska,AK,West
+6,7.5,Alabama,AL,Southeast
+5,6,Arkansas,AR,Southeast
+5,3,Arizona,AZ,Southwest
+5,2,California,CA,West
+4,3.5,Colorado,CO,West
+3,11,Connecticut,CT,Northeast
+5,12,District of Columbia,DC,Southeast
+4,9.5,Delaware,DE,Southeast
+8,8.5,Florida,FL,Southeast
+7,8,Georgia,GA,Southeast
+8,0.5,Hawaii,HI,West
+3,5,Iowa,IA,Midwest
+3,2,Idaho,ID,West
+3,6,Illinois,IL,Midwest
+3,7,Indiana,IN,Midwest
+5,5,Kansas,KS,Midwest
+4,6.5,Kentucky,KY,Southeast
+6,5.5,Louisiana,LA,Southeast
+2,10.5,Massachusetts,MA,Northeast
+4,8.5,Maryland,MD,Southeast
+0,11.5,Maine,ME,Northeast
+2,7.5,Michigan,MI,Midwest
+2,4.5,Minnesota,MN,Midwest
+4,5.5,Missouri,MO,Midwest
+6,6.5,Mississippi,MS,Southeast
+2,2.5,Montana,MT,West
+5,9,North Carolina,NC,Southeast
+2,3.5,North Dakota,ND,Midwest
+4,4.5,Nebraska,NE,Midwest
+1,11,New Hampshire,NH,Northeast
+3,10,New Jersey,NJ,Northeast
+6,3.5,New Mexico,NM,Southwest
+4,2.5,Nevada,NV,West
+2,9.5,New York,NY,Northeast
+3,8,Ohio,OH,Midwest
+6,4.5,Oklahoma,OK,Southwest
+4,1.5,Oregon,OR,West
+3,9,Pennsylvania,PA,Northeast
+2,11.5,Rhode Island,RI,Northeast
+6,8.5,South Carolina,SC,Southeast
+3,4,South Dakota,SD,Midwest
+5,7,Tennessee,TN,Southeast
+7,4,Texas,TX,Southwest
+5,4,Utah,UT,West
+5,8,Virginia,VA,Southeast
+1,10,Vermont,VT,Northeast
+2,1.5,Washington,WA,West
+2,5.5,Wisconsin,WI,Midwest
+4,7.5,West Virginia,WV,Southeast
+3,3,Wyoming,WY,West
