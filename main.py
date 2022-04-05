@@ -12,19 +12,19 @@ dataSection = True
 if dataSection:
     # loading data
     NAEP = pd.read_csv(
-        "//dc3fs1/DC4Work/ESSIN Task 14/05_RAPS/Z_Misc/Interns/2021 Summer/Sandbox/Lee/Data/NAEP/NAEP.csv")
+        "/Data/NAEP/NAEP.csv")
     Pulse = pd.read_csv(
-        "//dc3fs1/DC4Work/ESSIN Task 14/05_RAPS/Z_Misc/Interns/2021 Summer/Sandbox/Lee/Data/CensusBureauPulseSurvey/Pulse.csv")
+        "Data/CensusBureauPulseSurvey/Pulse.csv")
     Population = pd.read_csv(
-        "//dc3fs1/DC4Work/ESSIN Task 14/05_RAPS/Z_Misc/Interns/2021 Summer/Sandbox/Lee/Data/CensusBureauPopulation/population.csv")
+        "/Data/CensusBureauPopulation/population.csv")
     EdWeek = pd.read_csv(
-        "//dc3fs1/DC4Work/ESSIN Task 14/05_RAPS/Z_Misc/Interns/2021 Summer/Sandbox/Lee/Data/EdWeekSchoolFinance/EdWeek_SchoolFinance.csv")
+        "/Data/EdWeekSchoolFinance/EdWeek_SchoolFinance.csv")
     Policy = pd.read_csv(
-        "//dc3fs1/DC4Work/ESSIN Task 14/05_RAPS/Z_Misc/Interns/2021 Summer/Sandbox/Lee/Data/Policy/policy.csv")
+        "/Data/Policy/policy.csv")
     PolicyCount = pd.read_csv(
-        "//dc3fs1/DC4Work/ESSIN Task 14/05_RAPS/Z_Misc/Interns/2021 Summer/Sandbox/Lee/Data/Policy/policyCount.csv")
+        "/Data/Policy/policyCount.csv")
     hexs = pd.read_csv(
-        "//dc3fs1/DC4Work/ESSIN Task 14/05_RAPS/Z_Misc/Interns/2021 Summer/Sandbox/Lee/Data/hexmap_plots.csv")
+        "/Data/hexmap_plots.csv")
 
     # Dropping columns
     Pulse = Pulse.drop(columns=['Abbreviation'])
