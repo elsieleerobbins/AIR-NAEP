@@ -82,10 +82,10 @@ def create_altair_parent(my_state):
     dots_LOC = dots.encode(color=alt.Color("Group", scale=alt.Scale(scheme='yellowgreen')))
     dots_NSLP = dots.encode(color=alt.Color("Group", scale=alt.Scale(scheme='inferno')))
 
-    racing_internet_LOC = (dots_LOC + text).properties(width=700, height=100).configure_axis(
+    racing_internet_LOC = (dots_LOC + text).properties(width=700, height=150).configure_axis(
         grid=False).configure_view(strokeWidth=0).transform_filter(
         datum.Group != "Low-Income").transform_filter(datum.Group != "High-Income")
-    racing_internet_NSLP = (dots_NSLP + text).properties(width=700, height=100).configure_axis(
+    racing_internet_NSLP = (dots_NSLP + text).properties(width=700, height=150).configure_axis(
         grid=False).configure_view(strokeWidth=0).transform_filter(
         datum.Group != "City").transform_filter(datum.Group != "Rural").transform_filter(
         datum.Group != "Suburb").transform_filter(datum.Group != "Town")
@@ -137,7 +137,7 @@ def create_altair_policymaker():
         color=alt.Color('Group:N', scale=alt.Scale(scheme="yellowgreen"))
     )
     text = base.mark_text(dy=-20).encode(text="Group")
-    bubble_LOC = (bubbles + text).properties(width=700, height=100).configure_axis(grid=False).configure_view(strokeWidth=0)
+    bubble_LOC = (bubbles + text).properties(width=700, height=150).configure_axis(grid=False).configure_view(strokeWidth=0)
 
     ### - Bubble chart - by INCOME - ###
     nslp_dict = {'Group': ['Eligible', 'Noneligible'],
@@ -154,7 +154,7 @@ def create_altair_policymaker():
         color=alt.Color('Group:N', scale=alt.Scale(scheme="inferno"))
     )
     text = base.mark_text(dy=-20).encode(text="Group")
-    bubble_NSLP = (bubbles + text).properties(width=700, height=100).configure_axis(grid=False).configure_view(strokeWidth=0)
+    bubble_NSLP = (bubbles + text).properties(width=700, height=150).configure_axis(grid=False).configure_view(strokeWidth=0)
 
     return bubblechart_pre, bubblechart_pan, bubble_LOC, bubble_NSLP
 
@@ -221,7 +221,7 @@ if sidebar_selectbox == 'Parent or Teacher':
     st.header('What percentage of students have access to internet at home in my state?')
     st.write('From 2009 to 2021, the percentage of students who have access to internet at home has increased for all states. The gap between the bottom and top states has narrowed over time. The range in 2009 was from New Mexico at 79.8% to New Jersey at 96.2% and the range in 2021 was from Missisippi at 93.3% to Hawaii at 100%. The pandemic has galvanized efforts to increase digital equity, with three jurisdictions achieving 100% of students with access to internet and the 2021 National average at 97.9% of students with access to internet.')
     st.write('_Alt Text: This visualization shows the percentage of students in each state who have access to internet at home. Each state is represented as a circle that is "racing" up an internet cable as more students gain access to internet over time._')
-    st.write("Choose your state below to see how it compares to the national average and similar states. Color indicates region and your state is highlighted in red.")
+    st.write("Choose your state below to see how it compares to the national average and similar states. Color indicates region and your state is highlighted in red. [NOTE: This app was created as a high fidelity mock up. The example state shown is Michigan.]")
     my_state = st.selectbox('', states, index=22)
     [racing_internet, racing_internet_LOC, racing_internet_NSLP] = create_altair_parent(my_state)
     st.image('Assets/racinginternet.png')
