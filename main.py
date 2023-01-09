@@ -7,6 +7,9 @@ import pandas as pd
 from altair import datum
 import streamlit as st
 
+[theme]
+base = "light"
+
 # Data Section
 dataSection = True
 if dataSection:
