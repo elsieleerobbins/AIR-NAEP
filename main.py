@@ -45,7 +45,7 @@ def create_altair_parent(my_state):
     # Racing Internet Cable - slider over the years
     slider = alt.binding_range(min=2009, max=2021, step=2, name="Year  ")
     select_year = alt.selection_single(name="Slider", fields=['Year'],
-                                       bind=slider, init={'Year': 2009})
+                                       bind=slider)
     base = alt.Chart(all_data).mark_circle().encode(
         x=alt.Y("PercentInternet:Q", scale=alt.Scale(domain=[75, 100]),
                 axis=alt.Axis(tickMinStep=0.5, title="Percent of students that have access to the internet at home")),
